@@ -2,3 +2,5 @@
 *gv
 
 *.ipynb_checkpoints
+
+*data*
